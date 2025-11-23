@@ -1,4 +1,4 @@
-# AI_image_grnratore
+
 # AI-Image-Generator
 
 ![Screenshot_4](https://github.com/Cosaslearning/AI-Image-Generator/assets/100014446/d4925357-f48c-4788-bc70-64623871a8fb)
